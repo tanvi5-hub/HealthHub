@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+
+# Node / React / build artifacts
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+.package-cache/
+.cache/
+.parcel-cache/
+.next/
+out/
+dist/
+build/
+coverage/
+.vite/
+.eslintcache
+
+# Env / local
+.env
+.env.*
+firebase-debug.log
+
+.DS_Store
